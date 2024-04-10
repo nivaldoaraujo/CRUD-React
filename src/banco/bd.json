@@ -1,0 +1,24 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Carlos Moreira da Silva",
+      "email": "lacerda@ig.com.br"
+    },
+    {
+      "id": "2",
+      "nome": "Jenuário Muniz",
+      "email": "jenu_m@ig.com.br"
+    },
+    {
+      "id": "3",
+      "nome": "Eliana Massa",
+      "email": "elianamassa@ig.com.br"
+    },
+    {
+      "id": "70ce",
+      "nome": "Jullio Leira",
+      "email": "julio@senac.com.br"
+    }
+  ]
+}
